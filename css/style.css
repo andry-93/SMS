@@ -219,6 +219,10 @@ a.navbar-brand span {
     color: #fff;
     line-height: 30px;
 }
+.w3-banner p strong {
+	background-color: #313131;
+	color: #cc4141;
+}
 #typer {
 	vertical-align: middle;
     text-align: center;
